@@ -1,0 +1,57 @@
+
+.goToGoogleLink{
+    font-size: 40px;
+}
+
+.color-red{
+    color: red;
+}
+
+.registerButton{
+    background-color: orangered;
+    color: white;
+    font-size: 18px;
+    padding:10px 20px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    margin: 5px 0 10px 0;
+}
+
+.d-inlineBlock{
+    display: inline-block;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.align-items-center{
+    align-items: center;
+}
+
+.header{
+    justify-content: space-between;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(158,198,228,1) 100%);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px gray
+}
+.header ul{
+    list-style: none;
+    gap: 0px 10px;
+}
+.active{
+    font-weight: bolder;
+}
